@@ -1,0 +1,11 @@
+.container { 
+    width: 100%;
+}
+
+.container h1{
+    padding-bottom: 1em;
+}
+
+.container p{
+   padding: 0.5em;
+}
